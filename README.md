@@ -1,5 +1,3 @@
-# churn-prediction-app
-
 # Telco Customer Churn Prediction App
 
 This Streamlit app predicts whether a telecom customer is likely to **churn** based on their account information, contract type, and service usage. It's powered by a decision tree machine learning model trained on real-world telco customer data.
