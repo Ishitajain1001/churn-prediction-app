@@ -4,7 +4,7 @@
 
 This Streamlit app predicts whether a telecom customer is likely to **churn** based on their account information, contract type, and service usage. It's powered by a decision tree machine learning model trained on real-world telco customer data.
 
-![App Screenshot](https://user-images.githubusercontent.com/your-screenshot-placeholder.png)
+![App Screenshot](images/app_sc.png)
 
 ---
 
@@ -29,7 +29,7 @@ This Streamlit app predicts whether a telecom customer is likely to **churn** ba
 
 🔗 [Launch the app on Streamlit Cloud](https://churn-prediction-app-fe7yidjcssfqxpttfksov9.streamlit.app/)
 
-> 📌 Note: You can also clone this repo and run locally using Streamlit.
+> You can also clone this repo and run locally using Streamlit.
 
 ---
 
