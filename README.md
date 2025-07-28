@@ -31,6 +31,18 @@ This Streamlit app predicts whether a telecom customer is likely to **churn** ba
 
 ---
 
+## 📊 Power BI Dashboard
+
+This dashboard visualizes customer churn trends across various dimensions like contract type, payment method, and tenure.
+
+![Overall Dashboard View](images/telco_dashboard.png)
+
+You can also view a pdf version of the dashboard or the powerbi version below:
+[PDF Version](telco_churn_dashboard.pdf)
+[PowerBI Version](telco_churn_dashboard.pbix)
+
+---
+
 ## 🧠 ML Model Details
 
 - **Model**: Decision Tree Classifier (`scikit-learn`)
@@ -47,10 +59,12 @@ This Streamlit app predicts whether a telecom customer is likely to **churn** ba
 
 ## 🛠️ Tech Stack
 
-- [Streamlit](https://streamlit.io/) for the frontend
-- [scikit-learn](https://scikit-learn.org/) for model building
-- [joblib](https://joblib.readthedocs.io/) for model persistence
-- [Python 3.13] for backend logic
+- **Python** – Data preprocessing, model training (Decision Tree)
+- **scikit-learn** – Machine learning modeling and evaluation
+- **Streamlit** – Web app development and deployment
+- **joblib** – Model persistence
+- **Power BI** – Data visualization and dashboard creation
+
 
 ---
 
