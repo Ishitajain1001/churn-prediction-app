@@ -71,7 +71,7 @@ You can also view a pdf version of the dashboard or the powerbi version below:
 ## 📦 Installation (Run Locally)
 
 ```bash
-git clone https://github.com/your-username/churn-prediction-app.git
+git clone https://github.com/Ishitajain1001/churn-prediction-app.git
 cd churn-prediction-app
 pip install -r requirements.txt
 streamlit run app.py
